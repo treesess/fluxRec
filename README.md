@@ -10,7 +10,7 @@ A template of the major Google Sheet working 247 is [here](https://docs.google.c
 3) Do **mu (monthly update)** at the end of every month;
 4) Keep updating your dictionary or give up the record.
 
-For **mu (monthly update)** please check [here](). 
+For **mu (monthly update)** please check [here](https://github.com/treesess/fluxRec/blob/main/mu/readme.md#mu-sop-example-of-2311-to-2312). 
 
 All these are just my rules and my way of making it work for your reference only. 
 
