@@ -27,6 +27,14 @@ Some were just amazed by the organization of spreadsheet, or just the color. Mos
 
 futile and feeble. That's what she believes life would be. In the end everyone leaves and nothing you do will be left. Even though she still loves the life and is recording hers every single day. 
 
+The only thing that may be counted as the outcome of this project can be found [here](https://github.com/treesess/fluxRec/tree/main/mea/gallery) in which some descriptive statistics plots were shown. 
+
+![image](https://github.com/treesess/fluxRec/assets/20311124/65fd2362-8d8b-48ec-8989-add29ff68772)
+
+**Figure** Random selection of one of the plots which looks a bit intriguing
+
+yeah, this is her life. with all her honesty, recorded. 
+
 so how about joining her with this horrible project. 
 
 ---
