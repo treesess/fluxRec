@@ -19,7 +19,11 @@ It is a bold, crazy, insane, obsessive-compulsive way of Martha trying to record
 
 Back in June 2019, at a time when she could no longer bear the sufferings of not knowing what had happened to her, she escalated her compulsion of recordings. There fxR went on. Starting from making notes hourly, to the present "digitalized" sheet which is supposed to be updated every 10 minutes. 
 
-She introduced this project to some of the people she trusted (and still trusts), including her psychiatrist who commented "It is not so good for your anxiety but yes it gives you a feeling of mastery". Some were just amazed by the organization of sheet, or just the color. Most of the time no one was actually interested about this project since it is purely compulsion since after years of recording there was no certain conclusion drawn from the analysis of data. Not even any clear statistical pattern was found. 
+She introduced this project to some of the people she trusted (and still trusts), including her psychiatrist who commented:
+
+  > "It is not so good for your anxiety but yes it gives you a feeling of mastery".
+
+Some were just amazed by the organization of spreadsheet, or just the color. Most of the time no one was actually interested in this project since it was purely compulsion, since after years of recording there was no certain conclusion drawn from the analysis of data. Not even any clear statistical pattern was found. 
 
 futile and feeble. That's what she believes life would be. In the end everyone leaves and nothing you do will be left. Even though she still loves the life and is recording hers every single day. 
 
