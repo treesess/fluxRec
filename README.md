@@ -5,8 +5,8 @@ A simple and stupid way to keep every input and output of your mind in record, i
 ## How it works for you:
 
 1) Define your dictionary with numbers (e.g., 152 refers to walking, 140 refers to drinking water, etc.);
-2) Fill the cells in the [fxR sheet](https://docs.google.com/spreadsheets/d/1J4H77M-y4CSftAVVz9XRxQ0aY0Y-ZPVYlK0f25VynME/edit?usp=sharing) with your numbers presenting what you are doing or feeling;
-3) Do [**mu (monthly update)**](https://github.com/treesess/fluxRec/blob/main/mu/readme.md#mu-sop-example-of-2311-to-2312) at the end of every month;
+2) Fill the cells in the [fluxRec spreadsheet](https://docs.google.com/spreadsheets/d/1J4H77M-y4CSftAVVz9XRxQ0aY0Y-ZPVYlK0f25VynME/edit?usp=sharing) with your numbers representing what you are doing or feeling;
+3) Do [**mu** (monthly update)](https://github.com/treesess/fluxRec/blob/main/mu/readme.md#mu-sop-example-of-2311-to-2312) at the end of every month;
 4) Keep updating your dictionary or give up the record.
 
 All these are just my rules and my way of making it work for your reference only. 
