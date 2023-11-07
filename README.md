@@ -1,12 +1,12 @@
 # fluxRec
 
-A template of the major Google Sheet working 247 is [here](https://docs.google.com/spreadsheets/d/1oDbyPCxX0FmOOtRPRO1YqBZbsn8sWt6sCUQzb42HwKM/edit?usp=sharing). 
+A template of the major Google Sheet working 247 is [here](https://docs.google.com/spreadsheets/d/1J4H77M-y4CSftAVVz9XRxQ0aY0Y-ZPVYlK0f25VynME/edit?usp=sharing). 
 
 
 ## How it works for you:
 
 1) Define your dictionary (e.g., 152 refers to walking, 140 refers to drinking water);
-2) Fill the cells in the fxR sheet with your numbers presenting what you are doing or feeling;
+2) Fill the cells in the [fxR sheet](https://docs.google.com/spreadsheets/d/1J4H77M-y4CSftAVVz9XRxQ0aY0Y-ZPVYlK0f25VynME/edit?usp=sharing) with your numbers presenting what you are doing or feeling;
 3) Do **mu (monthly update)** at the end of every month;
 4) Keep updating your dictionary or give up the record.
 
